@@ -6,4 +6,4 @@ It asks for the file and searches for the subtitles in thesubdb and opensubtitle
 
 Thanks to thesubdb.com and opensubtitles.org for the contributions and the amazing API's.
 
-![Alt text](https://github.com/Nuno94/demo_gifs/blob/master/film_stats_example.gif)
+![Alt text](https://user-images.githubusercontent.com/12447896/91867479-9c877400-ec6b-11ea-89db-d53319d42e3c.gif)
