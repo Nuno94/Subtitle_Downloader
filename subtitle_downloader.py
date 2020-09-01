@@ -2,9 +2,9 @@
 # Python script that downloads subtitles for selected file
 # Begginer level and tailored to my needs. Just a simple script without the need for many features and using some simple
 # console interaction with the user.
-# Inspired by:  https://github.com/sameera-madushan/SubtitleBOX/blob/master/sbox.py
-#               https://github.com/manojmj92/subtitle-downloader/blob/master/subtitle-downloader/subtitle_downloader.py
-#               https://github.com/emericg/OpenSubtitlesDownload/blob/master/OpenSubtitlesDownload.py#L642
+# Inspired by:  https://github.com/sameera-madushan/SubtitleBOX
+#               https://github.com/manojmj92/subtitle-downloader
+#               https://github.com/emericg/OpenSubtitlesDownload
 
 
 # Subtitle downloader
